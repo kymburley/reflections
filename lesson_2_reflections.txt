@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git initializes an empty repository in the directory I was located. It needs to
+be done to start controlling the versions of my documents.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The staging area is where your files go before they are committed. The working
+directory is where the file is located on your harddrive. The repository is
+where files are that have been committed. The value of the staging area is that
+your files go there before committing, but if you change your mind and don't
+want to commit you can reverse the file out. By doing this the file is never
+committed.
