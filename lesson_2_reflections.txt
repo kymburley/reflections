@@ -12,3 +12,6 @@ where files are that have been committed. The value of the staging area is that
 your files go there before committing, but if you change your mind and don't
 want to commit you can reverse the file out. By doing this the file is never
 committed.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Not real sure yet.
