@@ -14,4 +14,13 @@ want to commit you can reverse the file out. By doing this the file is never
 committed.
 
 How can you use the staging area to make sure you have one commit per logical change?
+
 Not real sure yet.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+When you don't want to make a permanent change to the program - if you're trying
+out new features or want to do a demo with new features. You can make these
+types of changes on a branch so you can still run the program without over-
+writing the codebase.
