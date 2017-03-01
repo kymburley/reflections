@@ -37,3 +37,11 @@ How do the diagrams help you visualize the branch structure?
 
 Because it's easy to see which commits are on which branch, and also, which
 commits are unreachable.
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is the master branch has all of the commits in both branches. We
+represent it in the diagram the way we do so we have a visual of the branches
+and what our intended result is with the merge.
