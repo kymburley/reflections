@@ -45,3 +45,9 @@ What is the result of merging two branches together? Why do we represent it in t
 The result is the master branch has all of the commits in both branches. We
 represent it in the diagram the way we do so we have a visual of the branches
 and what our intended result is with the merge.
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Not sure about this answer.
