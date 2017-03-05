@@ -4,7 +4,7 @@ work local?
 I would create a remote repository when I want to collaborate or share my files
 with others. 
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
@@ -12,7 +12,7 @@ automatically stay up-to-date with your remote repository?
 Git may stay up-to-date at inopportune times. It seems to me that it is always
 best to pull changes manually so you can control when those changes are synced.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Describe the differences between forks, clones, and branches. When would you 
 use one instead of another?
@@ -30,10 +30,21 @@ and you need to make changes to some part of the codebase. You would create a
 branch for a demo or to see if that new code will work before incorporating it
 into the main code base.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
 The benefit is to have the most recent code base on the local computer to see
 how any additions or deletions are affected.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+Without Git or Github you would need to find another tool. I used to use one,
+I think it was called CVS or something like that. It would be harder, because
+when you're talking about thousands of lines of code it's difficult to locate
+the one or two changes. Sometimes they are just bug fixes and searching would
+take too much time.
