@@ -48,3 +48,13 @@ I think it was called CVS or something like that. It would be harder, because
 when you're talking about thousands of lines of code it's difficult to locate
 the one or two changes. Sometimes they are just bug fixes and searching would
 take too much time.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+Making changes in a separate branch is a good way to see if those changes
+work or not before committing them to the master branch. However, working
+directly in the master branch makes checking in/out and merging less
+cumbersome.
