@@ -29,3 +29,11 @@ that is not github. You might want to do this because you're part of a team
 and you need to make changes to some part of the codebase. You would create a 
 branch for a demo or to see if that new code will work before incorporating it
 into the main code base.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+The benefit is to have the most recent code base on the local computer to see
+how any additions or deletions are affected.
